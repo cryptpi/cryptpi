@@ -20,8 +20,8 @@ I'm Moussa Moussaoui Also known as "cryptpi" a computer science student and grap
 
 ### Portfolios 
 
-![](images/dribbble.png) [My website](https://www.cryptpi.com/)
+![](images/world-map.png) [My website](https://www.cryptpi.com/)
 
 ![](images/dribbble.jpg) [My Behance](https://www.behance.net/cryptpi)
 
-![](images/dribbble.jpg) [My Dribbble](https://www.dribbble.com/cryptpi)
+![](images/behance.png) [My Dribbble](https://www.dribbble.com/cryptpi)
