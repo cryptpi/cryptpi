@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 I'm Moussa Moussaoui Also known as "cryptpi" a computer science student and graphic ux/ui designer , I was never the best at school or academics, I’m just a super curious guy. I spend a lot of time coding and designing.
 
 ### Portfolios 
-[My website](https://www.cryptpi.com/)
-[My Behance](https://www.behance.net/cryptpi)
-[My Dribbble](https://www.dribbble.com/cryptpi)
+![](images/dribbble.png) [My website](https://www.cryptpi.com/)
+![](images/dribbble.jpg) [My Behance](https://www.behance.net/cryptpi)
+![](images/dribbble.jpg) [My Dribbble](https://www.dribbble.com/cryptpi)
