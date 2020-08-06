@@ -24,4 +24,4 @@ I'm Moussa Moussaoui Also known as "cryptpi" a computer science student and grap
 
 [My Behance](https://www.behance.net/cryptpi)
 
-![](images/dribbble.png) [My Dribbble](https://www.dribbble.com/cryptpi)
+[My Dribbble](https://www.dribbble.com/cryptpi)
