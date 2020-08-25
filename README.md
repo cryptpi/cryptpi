@@ -3,7 +3,8 @@
 ## Hi there 👋
 
 ### About Me !
-I'm Moussa Moussaoui Also known as "cryptpi" a computer science student and graphic ux/ui designer , I was never the best at school or academics, I’m just a super curious guy. I spend a lot of time coding and designing.
+I'm Moussa Moussaoui Also known as "cryptpi"  a self taught Full Stack developer & Graphic UX/UI designer. I was never the best at school or academics, I’m just a super curious guy. I spend a lot of time learning, coding and designing.
+
 
 ### Portfolios 
 
