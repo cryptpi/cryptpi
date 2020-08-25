@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
 
-### Hi there 👋
+## Hi there 👋
 <!--
 **cryptpi/cryptpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
