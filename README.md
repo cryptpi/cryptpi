@@ -7,7 +7,7 @@ I'm _**Moussa Moussaoui**_ Also known as _**"cryptpi"**_  a self taught **Full S
 
 ### My stack 
 
-![]https://img.shields.io/badge/-JavaScript-565555?style=flat-square&logo=javascript
+![](https://img.shields.io/badge/-JavaScript-565555?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-Php-565555?style=flat-square&logo=Php)
 ![](https://img.shields.io/badge/-React-565555?style=flat-square&logo=React)
 ![](https://img.shields.io/badge/-MySQL-565555?style=flat-square&logo=MySQL)
