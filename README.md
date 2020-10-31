@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 ### About Me !
-welcome to my crypted world. I'm **Moussa Moussaoui** a self taught **FULL STACK DEVELOPER** *&* **GRAPHIC UX/UI DESIGNER**. I was never the best at school or academics, I’m just a super curious guy. I spend a lot of time coding and designing.
+welcome to my crypted world. I'm **Moussa Moussaoui** aka **"cryptpi"** a self taught **FULL STACK DEVELOPER** *&* **GRAPHIC UX/UI DESIGNER**. I was never the best at school or academics, I’m just a super curious guy. I spend a lot of time coding and designing.
 
 ### Portfolios 
 
