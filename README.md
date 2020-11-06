@@ -14,4 +14,3 @@ welcome to my crypted world. I'm **Moussa Moussaoui** aka **"cryptpi"** a self t
 
 [My Dribbble](https://www.dribbble.com/cryptpi)
 
-![](https://komarev.com/ghpvc/?username=cryptpi&color=green)
