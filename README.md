@@ -15,3 +15,5 @@ welcome to my crypted world. I'm **Moussa Moussaoui** aka **"cryptpi"** a self t
 [My Dribbble](https://www.dribbble.com/cryptpi)
 
 [!](https://viewscounter2.herokuapp.com/)
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptpi&theme=blue-green)
