@@ -17,5 +17,3 @@ welcome to my crypted world. I'm **Moussa Moussaoui** aka **"cryptpi"** a self t
 [My Dribbble](https://www.dribbble.com/cryptpi)
 
 [My Instagram](https://www.instagram.com/cryptpi)
-
-![](https://komarev.com/ghpvc/?username=cryptpi)
