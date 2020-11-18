@@ -8,11 +8,9 @@ welcome to my crypted world. I'm **Moussa Moussaoui** aka **"cryptpi"** a self t
 **465 private contributions** this year, i'm looking to open source things soon 👾
 
 <img src="./images/cover.png" width="">
-<<<<<<< HEAD
-<img src="./images/js.png" width="400">
-=======
->>>>>>> b33f3c720b9a569dfead0a1bd2841a172856f1e3
 
+<img src="./images/js.png" width="250">
+=======
 ### Portfolios
 
 
