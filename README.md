@@ -9,7 +9,6 @@ welcome to my crypted world. I'm **Moussa Moussaoui** aka **"cryptpi"** a self t
 
 i'm looking to open source things soon 👾
 
-<img src="./images/cover.png" width="">
 
 <img src="./images/js.png" width="150">
 
