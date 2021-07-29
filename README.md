@@ -1,7 +1,6 @@
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
-
 ## Hi there 👋
 
+<img src="https://media.giphy.com/media/p1cRNnL5vebWyNpbmy/giphy.gif">
 
 
 ### About Me !
@@ -9,8 +8,6 @@ welcome to my crypted world. I'm **Moussa Moussaoui** aka **"cryptpi"** a self t
 
 i'm looking to open source things soon 👾
 
-
-<img src="./images/js.png" width="150">
 
 ### Portfolios
 
