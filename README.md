@@ -10,9 +10,6 @@ i'm looking to open source things soon 👾
 ### 🌟 PORTFOLIOS
 
  <p>&nbsp;</p>🎉 [My Website](https://www.cryptpi.com/)
-
  <p>&nbsp;</p>🎉 [My Behance](https://www.behance.net/cryptpi)
-
  <p>&nbsp;</p>🎉 [My Dribbble](https://www.dribbble.com/cryptpi)
-
  <p>&nbsp;</p>🎉 [My Instagram](https://www.instagram.com/cryptpi)
