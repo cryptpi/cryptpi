@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<img src="https://media.giphy.com/media/JsDTORwdZOEIhg7tHl/giphy.gif" width="300px">
+<center><img src="https://media.giphy.com/media/JsDTORwdZOEIhg7tHl/giphy.gif" width="300px"></center>
 
 
 ### About Me !
