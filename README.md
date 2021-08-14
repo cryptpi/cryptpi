@@ -14,4 +14,3 @@
 <tr><td>🌟 MY INSTAGRAM </td><td> https://www.instagram.com/cryptpi </td></tr>
 </table>
 
-<pre><em>Coming Soon...</em></pre>
