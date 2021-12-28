@@ -1,7 +1,4 @@
 <table>
- <tr><td><img src="https://ethereum.org/static/a0f00bb81aaf3743c3d42c8270451781/31987/newrings.png" width="100%" height="auto" alt="cryptpi-img"/></td></tr>
-</table>
-<table>
  <tr><td>ABOUT ME</td></tr>
  <tr><td> <p>I'm Moussa Moussaoui aka "cryptpi" a self taught Developer; 3D Artist, a Bachelor Cyber Security Student. I was never the best at school or academics i'm just a super curious guy, i spend most of my time learning, coding, designing.</p> </td></tr>
 </table>
