@@ -1,5 +1,6 @@
-<p>I'm Moussa MOUSSAOUI aka cryptpi a <b>self taught full-stack developer</b>, a <b>Cyber Security Student ( graduated in 2021 )</b>. I was never the best at School or Academics, i'm just a super curious guy, i spend a lot of time searching, designing & exploring new techs.</p>
-
+<table>
+  <tr><td>I'm Moussa MOUSSAOUI aka cryptpi a self taught full-stack developer, a Cyber Security Student ( graduated in 2021 ). I was never the best at School or Academics, i'm just a super curious guy, i spend a lot of time searching, designing & exploring new techs.</td></tr>
+</table>
 
 ###### 🌟 MY WEBSITE https://www.cryptpi.com/ 
 ###### 🌟 MY BEHANCE https://www.behance.net/cryptpi
