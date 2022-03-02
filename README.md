@@ -1,13 +1,8 @@
-<table>
- <tr><td>ABOUT ME</td></tr>
- <tr><td> <p>I'm Moussa Moussaoui aka "cryptpi" a self taught Developer; 3D Artist, a Bachelor Cyber Security Student. I was never the best at school or academics i'm just a super curious guy, i spend most of my time learning, coding, designing.</p> </td></tr>
-</table>
+<p>I'm Moussa MOUSSAOUI aka cryptpi a <b>self taught full-stack developer</b>, a <b>Cyber Security Student ( graduated in 2021 )</b>. I was never the best at School or Academics, i'm just a super curious guy, i spend a lot of time searching, designing & exploring new techs.</p>
 
-<table>
- <tr><td></td><td></br></td></tr>
-<tr><td>🌟 MY WEBSITE </td><td> https://www.cryptpi.com/ </td></tr>
-<tr><td>🌟 MY BEHANCE </td><td> https://www.behance.net/cryptpi </td></tr>
-<tr><td>🌟 MY DRIBBBLE </td><td> https://www.dribbble.com/cryptpi </td></tr>
-<tr><td>🌟 MY INSTAGRAM </td><td> https://www.instagram.com/cryptpi </td></tr>
-</table>
+
+###### 🌟 MY WEBSITE https://www.cryptpi.com/ 
+###### 🌟 MY BEHANCE https://www.behance.net/cryptpi
+###### 🌟 MY DRIBBBLE https://www.dribbble.com/cryptpi
+###### 🌟 MY INSTAGRAM https://www.instagram.com/cryptpi
 
