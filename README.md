@@ -6,5 +6,4 @@ I am Moussa Moussaoui aka cryptpi, a self taught programmer, actually a computer
 - [DRIBBBLE](https://www.dribbble.com/cryptpi)
 - [INSTAGRAM](https://www.instagram.com/cryptpi)
 
-![GIF Name](https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif)
 ![Jerseydemic GIF](https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif)
