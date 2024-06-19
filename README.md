@@ -1,11 +1,1 @@
-![Jerseydemic GIF](https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif)
-
-### 💫 Who Am I?
-
-.I am **MOUSSA MOUSSAOUI** aka cryptpi. As a curious lifelong learner, I've gained extensive experience across multiple fields including physics, electronics, and software engineering. My interest in computers and technology was sparked at a young age through assisting my father, an IT professional, with various projects.
-
-Though not the strongest academic, I developed a passion for understanding how things work which led me to study physics. This training provided valuable insights into electronics that I employed while repairing my own devices. Over time, my focus shifted more fully to software as I explored various computer science concepts in my spare time.
-
-Today, I leverage my interdisciplinary background and natural curiosity to thrive as a software engineer. Continuous self-education allows me to stay on the cutting edge of new developments. I take great pride in applying technical skills to solve problems creatively. My diverse background in fields such as physics, electronics, and computer science equips me with the flexibility, knowledge, and problem-solving abilities needed to take on challenges in this constantly evolving industry.
-### 🌐 Social Links
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/cryptpi) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cryptpi#2764) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cryptpi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cryptpi) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/cryptpi) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/cryptpi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cryptpi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cryptpi) 
+They call me cryptpi
