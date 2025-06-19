@@ -1,2 +1,3 @@
 aka Cryptpi
-a Software Engineer, OLD School 2007
+a Software Engineer
+2007 OLD School
