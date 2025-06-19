@@ -1,2 +1,2 @@
 aka Cryptpi
-a Software Engineer, AI Aspiring Researcher
+a Software Engineer, OLD School 2007
